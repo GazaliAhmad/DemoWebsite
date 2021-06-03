@@ -11,8 +11,8 @@ const IndexPage = () => {
         <p>
           I'm creating this website by using Gatsby and ReactJS. It's still a
           work in progress. Besides this I have a Java Spring Boot assessment to
-          complete. As with anything new, one must learn to the syntax. Getting
-          back to programming in Java. Did you hear the gears in my head
+          complete. As with anything new, one must learn the methods and syntax.
+          Getting back to programming in Java. Did you hear the gears in my head
           shifting hard. The result is this:
         </p>
         <StaticImage
