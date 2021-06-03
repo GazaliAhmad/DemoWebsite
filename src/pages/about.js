@@ -11,7 +11,7 @@ const AboutPage = () => {
           This website is created by me, Gazali, to show front end web
           development. What intrigues me about using Gatsby is that I can
           integrate with CMS like WordPress into it. It's SEO friendly, fast and
-          easy to update. into it.
+          easy to update.
         </p>
       </Layout>
     </main>
