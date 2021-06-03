@@ -8,10 +8,16 @@ const IndexPage = () => {
     <main>
       <title>Home Page</title>
       <Layout pageTitle="Home Page">
-        <p>I'm making this by following the Gatsby Tutorial.</p>
+        <p>
+          I'm creating this website by using Gatsby and ReactJS. It's still a
+          work in progress. Besides this I have a Java Spring boot assessment to
+          complete. As with anything new, one must learn to syntax. Getting back
+          to programming in Java. Did you hear the gears in head shifting hard.
+          The result is this:
+        </p>
         <StaticImage
-          alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-          src="https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"
+          alt="Cat tired out dooing coding"
+          src="../images/cat_programmer.jpg"
         />
       </Layout>
     </main>

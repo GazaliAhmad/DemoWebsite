@@ -8,8 +8,10 @@ const AboutPage = () => {
       <Layout pageTitle="About Me">
         {" "}
         <p>
-          Hi there! I'm the proud creator of this site, which I built with
-          Gatsby.
+          This website is created by me, Gazali, to show front end web
+          development. I can easily do a website in WordPress. What intrigues me
+          about using Gatsby is that I can integrate other CMS like WordPress
+          into it.
         </p>
       </Layout>
     </main>
