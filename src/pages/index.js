@@ -9,7 +9,7 @@ const IndexPage = () => {
       <title>Home Page</title>
       <Layout pageTitle="Home Page">
         <p>
-          I'm creating this website by using Gatsby and ReactJS. It's still a
+          I'm creating this website by using Gatsby and React. It's still a
           work in progress. Besides this I have a Java Spring Boot assessment to
           complete. As with anything new, one must learn the methods and syntax.
           Getting back to programming in Java. Did you hear the gears in my head
