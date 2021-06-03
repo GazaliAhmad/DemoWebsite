@@ -10,10 +10,10 @@ const IndexPage = () => {
       <Layout pageTitle="Home Page">
         <p>
           I'm creating this website by using Gatsby and ReactJS. It's still a
-          work in progress. Besides this I have a Java Spring boot assessment to
-          complete. As with anything new, one must learn to syntax. Getting back
-          to programming in Java. Did you hear the gears in head shifting hard.
-          The result is this:
+          work in progress. Besides this I have a Java Spring Boot assessment to
+          complete. As with anything new, one must learn to the syntax. Getting
+          back to programming in Java. Did you hear the gears in my head
+          shifting hard. The result is this:
         </p>
         <StaticImage
           alt="Cat tired out dooing coding"
